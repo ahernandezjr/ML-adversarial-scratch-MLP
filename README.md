@@ -1,7 +1,4 @@
 # ML-adversarial-scratch-MLP
-A Multi-Layer Perceptron created from scratch was used for binary classification of gender based on faces. This model was, in turn, disrupted with adversarial images that negatively impacted it to certain degrees.
-
-# NBA Win Prediction
 
 ## Purpose:
 Create a Machine Learning model that classifies the sex of faces (male or female) and attempt to disrupt the accuracy of the model via adversarial images using small markings. 
