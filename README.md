@@ -21,7 +21,7 @@ All layers feature Sigmoid for Binary Cross Entropy Loss. \
 | 1.25                           | 0.89     |
 | 2.5                            | 0.83     |
 | 5                              | 0.87     |
-Incorrectly Labeled Images:
+\Incorrectly Labeled Images:
 ![image](https://github.com/ahernandezjr/ML-adversarial-scratch-MLP/assets/76761720/f818ed2b-f9d6-452b-98e9-9b93cc5fda3f)
 ![image](https://github.com/ahernandezjr/ML-adversarial-scratch-MLP/assets/76761720/1413ef73-04c2-4eeb-9d41-456170208361)
 ![image](https://github.com/ahernandezjr/ML-adversarial-scratch-MLP/assets/76761720/5bd99ba7-ebc9-4ef1-b36b-c4d13414cc75)
